@@ -163,11 +163,10 @@ plt.show()
 ```
 prodigy-infotech-task-03/
 ├── data/
-│   └── customer_data.csv  # Sample dataset
+│   └── bank-full.csv  # Sample dataset
 ├── images/
 │   └── decision_tree.png  # Example of generated decision tree plot
-├── Task-03-Decision-Tree-Classifier.ipynb  # Jupyter Notebook file
-├── requirements.txt  # Required Python packages
+├── Task-03-prodigy_ds_03.ipynb  # Jupyter Notebook file
 └── README.md  # Project documentation
 ```
 

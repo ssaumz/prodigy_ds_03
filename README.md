@@ -45,28 +45,6 @@ Ensure you have the following software installed:
 - Python (version 3.6 or higher)
 - Jupyter Notebook
 
-### Installation Steps
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/username/prodigy-infotech-task-03.git
-   cd prodigy-infotech-task-03
-   ```
-
-2. **Create a Virtual Environment**
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-   ```
-
-3. **Install Required Packages**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ### Running the Notebook
 
 1. Launch Jupyter Notebook:

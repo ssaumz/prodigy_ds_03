@@ -11,8 +11,7 @@ Excited to announce the successful completion of Task-03 during my data science 
 3. [Setup and Installation](#setup-and-installation)
 4. [Usage](#usage)
 5. [Project Structure](#project-structure)
-6. [License](#license)
-7. [Contributors](#contributors)
+6. [Contributors](#contributors)
 
 ## Project Description
 
@@ -147,10 +146,6 @@ prodigy-infotech-task-03/
 ├── Task-03-prodigy_ds_03.ipynb  # Jupyter Notebook file
 └── README.md  # Project documentation
 ```
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contributors
 

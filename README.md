@@ -1,4 +1,4 @@
-## Task-02: Data Science Internship at Prodigy InfoTech
+## Task-03: Data Science Internship at Prodigy InfoTech
 
 ## Project Overview
 Excited to announce the successful completion of Task-03 during my data science internship at Prodigy InfoTech 🚀. This project involved crafting a decision tree classifier in Python using Jupyter Notebook to predict customer purchases based on demographic and behavioral data.
